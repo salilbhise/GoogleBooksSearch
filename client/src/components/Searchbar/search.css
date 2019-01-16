@@ -7,3 +7,10 @@
     width: 700px;
     margin-left: 5px;
 }
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    font-family: 'Coiny', cursive;
+}
