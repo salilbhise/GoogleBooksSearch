@@ -1,10 +1,11 @@
 import React from "react";
+import './navbar.css';
 
 function Nav() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <a className="navbar-brand" href="/">
-       Google Books
+       Home
       </a>
       <a className="navbar-brand" href="/">
        Search
